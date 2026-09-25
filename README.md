@@ -214,3 +214,7 @@ The best way to contribute is to write new event sources. See the
 ## License
 
 MIT
+
+## License
+
+MIT © Fabrica, Inc. — see [LICENSE](LICENSE). Created and maintained by Tim Garthwaite.
